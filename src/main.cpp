@@ -4,6 +4,6 @@
 int main() {
     int d = 2;
     int f = 4;
-    int num = power(d, f);
+    int num = power(d,f);
     return num;
 }
